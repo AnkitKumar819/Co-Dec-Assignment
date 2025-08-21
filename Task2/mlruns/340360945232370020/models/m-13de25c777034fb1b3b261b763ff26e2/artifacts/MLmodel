@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/ankit/OneDrive/Desktop/Git/Co-Dec-Assignment/Task2/mlruns/340360945232370020/models/m-13de25c777034fb1b3b261b763ff26e2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-13de25c777034fb1b3b261b763ff26e2
+model_size_bytes: 4123
+model_uuid: m-13de25c777034fb1b3b261b763ff26e2
+prompts: null
+run_id: f9c3bc79cd9b4901925cedfcf8e83f87
+utc_time_created: '2025-08-21 03:16:23.832441'

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ankit/OneDrive/Desktop/Git/Co-Dec-Assignment/Task2/mlruns/340360945232370020/models/m-48b0ce6afd284c5cae1ce5a178201646/artifacts
+creation_timestamp: 1755746200059
+experiment_id: '340360945232370020'
+last_updated_timestamp: 1755746209432
+model_id: m-48b0ce6afd284c5cae1ce5a178201646
+model_type: null
+name: sentiment_pipeline
+source_run_id: f8373f1197d5434ea1eadebbeac907f3
+status: 2
+status_message: null

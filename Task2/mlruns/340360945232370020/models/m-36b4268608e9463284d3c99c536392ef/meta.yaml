@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ankit/OneDrive/Desktop/Git/Co-Dec-Assignment/Task2/mlruns/340360945232370020/models/m-36b4268608e9463284d3c99c536392ef/artifacts
+creation_timestamp: 1755745712136
+experiment_id: '340360945232370020'
+last_updated_timestamp: 1755745753239
+model_id: m-36b4268608e9463284d3c99c536392ef
+model_type: null
+name: bernoulli_nb_model
+source_run_id: 81fd85f5181c4dbab9eeaf596597a900
+status: 2
+status_message: null

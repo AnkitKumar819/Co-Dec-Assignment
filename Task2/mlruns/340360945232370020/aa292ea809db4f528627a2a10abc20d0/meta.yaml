@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ankit/OneDrive/Desktop/Git/Co-Dec-Assignment/Task2/mlruns/340360945232370020/aa292ea809db4f528627a2a10abc20d0/artifacts
+end_time: 1755746102923
+entry_point_name: ''
+experiment_id: '340360945232370020'
+lifecycle_stage: active
+run_id: aa292ea809db4f528627a2a10abc20d0
+run_name: BernoulliNB_CountVectorizer
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755746102821
+status: 4
+tags: []
+user_id: ankit
